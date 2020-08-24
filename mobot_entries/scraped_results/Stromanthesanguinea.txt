@@ -1,0 +1,68 @@
+
+	Stromanthe sanguinea
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=S%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="/PlantFinder/Images/NoThumbnailLarge.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: stromanthe 
+                        </div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Herbaceous perennial
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Marantaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_NativeRangeRow">
+                            Native Range: Brazil
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 10 to 12
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 3.00 to 5.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 2.00 to 3.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: March to April
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Tiny white flowers with cherry red bracts
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Part shade
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Low
+                        </div>
+<div class="row">Flower: Showy</div>
+<div class="row">Leaf: Evergreen</div>
+<div class="row">Other: Winter Interest</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/282665?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

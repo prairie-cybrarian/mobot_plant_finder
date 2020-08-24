@@ -1,0 +1,71 @@
+
+	Taxodium distichum 'Peve Yellow'
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=T%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=18599" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/TropicosImages2/PlantRecordImages/prod/small240/00018000/18599_C863-0720091gk.JPG" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: bald cypress <a href="controls/#" id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerLink" onclick="var isOpen = document.getElementById('MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen'); if(isOpen.value == '0') { isOpen.value = '1'; return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; bald cypress&lt;br/&gt; &amp;bull; common baldcypress&lt;br/&gt; &amp;bull; deciduous cypress&lt;br/&gt; &amp;bull; sabino tree&lt;br/&gt; &amp;bull; southern cypress&lt;br/&gt; &amp;bull; swamp cypress&lt;br/&gt; &amp;bull; white cypress&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');} else { isOpen.value = '0'; nd(); return false; } " onmouseout="return nd();" onmouseover="return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; bald cypress&lt;br/&gt; &amp;bull; common baldcypress&lt;br/&gt; &amp;bull; deciduous cypress&lt;br/&gt; &amp;bull; sabino tree&lt;br/&gt; &amp;bull; southern cypress&lt;br/&gt; &amp;bull; swamp cypress&lt;br/&gt; &amp;bull; white cypress&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');">
+<img src="/PlantFinder/Images/information.gif"/>
+</a>
+<input id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen" name="ctl00$MainContentPlaceHolder$CommonNamesInfo$DisclaimerWindowOpen" type="hidden" value="0"/>
+</div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Tree
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Cupressaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 4 to 8
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 6.00 to 15.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 3.00 to 8.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: Non-flowering
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Non-flowering
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Full sun
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium to wet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Low
+                        </div>
+<div class="row">Suggested Use: Rain Garden</div>
+<div class="row">Leaf: Colorful, Good Fall</div>
+<div class="row">Tolerate: Deer, Clay Soil, Wet Soil, Air Pollution</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/267239?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

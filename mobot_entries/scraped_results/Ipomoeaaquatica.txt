@@ -1,0 +1,74 @@
+
+	Ipomoea aquatica
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=I%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+<span class="warning" id="MainContentPlaceHolder_TopDisplay">Federal Noxious Weed: Do Not Plant</span>
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="/PlantFinder/Images/NoThumbnailLarge.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: swamp morning-glory <a href="controls/#" id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerLink" onclick="var isOpen = document.getElementById('MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen'); if(isOpen.value == '0') { isOpen.value = '1'; return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; swamp morning-glory&lt;br/&gt; &amp;bull; water spinach&lt;br/&gt; &amp;bull; kangkong&lt;br/&gt; &amp;bull; swamp-cabbage &lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');} else { isOpen.value = '0'; nd(); return false; } " onmouseout="return nd();" onmouseover="return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; swamp morning-glory&lt;br/&gt; &amp;bull; water spinach&lt;br/&gt; &amp;bull; kangkong&lt;br/&gt; &amp;bull; swamp-cabbage &lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');">
+<img src="/PlantFinder/Images/information.gif"/>
+</a>
+<input id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen" name="ctl00$MainContentPlaceHolder$CommonNamesInfo$DisclaimerWindowOpen" type="hidden" value="0"/>
+</div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Annual
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Convolvulaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_NativeRangeRow">
+                            Native Range: Southern Africa, Southeastern Asia, Australia
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 2 to 11
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 0.50 to 1.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 10.00 to 70.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: Rarely flowers
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: White, pink, purple
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Full sun
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium to wet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Low
+                        </div>
+<div class="row">Suggested Use: Annual, Vegetable, Rain Garden</div>
+<div class="row">Tolerate: Deer</div>
+<div class="row" id="MainContentPlaceHolder_InvasiveLinkRow">
+                            Invasive: <a href="http://www.invasiveplantatlas.org/subject.html?sub=5751" id="MainContentPlaceHolder_InvasiveLink">Where is this species invasive in the US?</a>
+</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/279299?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

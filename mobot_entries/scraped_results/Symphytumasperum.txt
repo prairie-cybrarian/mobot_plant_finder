@@ -1,0 +1,75 @@
+
+	Symphytum asperum
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=S%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+<span class="warning" id="MainContentPlaceHolder_TopDisplay">Weedy and Potentially Invasive: Do Not Plant</span>
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=18265" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/TropicosImages2/PlantRecordImages/prod/small240/00018000/18265_D515-0105092gk.JPG" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: prickly comfrey <a href="controls/#" id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerLink" onclick="var isOpen = document.getElementById('MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen'); if(isOpen.value == '0') { isOpen.value = '1'; return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; prickly comfrey&lt;br/&gt; &amp;bull; Persian comfrey&lt;br/&gt; &amp;bull; forage comfrey&lt;br/&gt; &amp;bull; rough comfrey&lt;br/&gt; &amp;bull; trottles&lt;br/&gt; &amp;bull; borage&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');} else { isOpen.value = '0'; nd(); return false; } " onmouseout="return nd();" onmouseover="return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; prickly comfrey&lt;br/&gt; &amp;bull; Persian comfrey&lt;br/&gt; &amp;bull; forage comfrey&lt;br/&gt; &amp;bull; rough comfrey&lt;br/&gt; &amp;bull; trottles&lt;br/&gt; &amp;bull; borage&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');">
+<img src="/PlantFinder/Images/information.gif"/>
+</a>
+<input id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen" name="ctl00$MainContentPlaceHolder$CommonNamesInfo$DisclaimerWindowOpen" type="hidden" value="0"/>
+</div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Herbaceous perennial
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Boraginaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_NativeRangeRow">
+                            Native Range: Europe, Caucasus, Iran
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 4 to 8
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 2.00 to 4.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 2.00 to 4.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: May to July
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Rose-pink changing to blue or purple
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Full sun to part shade
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Medium
+                        </div>
+<div class="row">Suggested Use: Naturalize</div>
+<div class="row">Flower: Showy</div>
+<div class="row">Tolerate: Deer, Drought</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/277976?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

@@ -1,0 +1,76 @@
+
+	Papaver rhoeas
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=P%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=66494" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/PlantRecords1/prod/small240/00066000/66494.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: corn poppy <a href="controls/#" id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerLink" onclick="var isOpen = document.getElementById('MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen'); if(isOpen.value == '0') { isOpen.value = '1'; return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; corn poppy&lt;br/&gt; &amp;bull; African rose&lt;br/&gt; &amp;bull; blind-eyes&lt;br/&gt; &amp;bull; blue-eyes&lt;br/&gt; &amp;bull; canker&lt;br/&gt; &amp;bull; canker rose&lt;br/&gt; &amp;bull; cheese couls&lt;br/&gt; &amp;bull; cheese cowl&lt;br/&gt; &amp;bull; cock rose&lt;br/&gt; &amp;bull; common poppy&lt;br/&gt; &amp;bull; cop rose&lt;br/&gt; &amp;bull; copper rose&lt;br/&gt; &amp;bull; corn rose&lt;br/&gt; &amp;bull; cornflower&lt;br/&gt; &amp;bull; field poppy&lt;br/&gt; &amp;bull; flanders poppy&lt;br/&gt; &amp;bull; headache plant&lt;br/&gt; &amp;bull; headaches&lt;br/&gt; &amp;bull; prophetic leaf&lt;br/&gt; &amp;bull; red cornflower&lt;br/&gt; &amp;bull; red poppy&lt;br/&gt; &amp;bull; redweed&lt;br/&gt; &amp;bull; Shirley poppy&lt;br/&gt; &amp;bull; thunder flower&lt;br/&gt; &amp;bull; wind rose&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');} else { isOpen.value = '0'; nd(); return false; } " onmouseout="return nd();" onmouseover="return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; corn poppy&lt;br/&gt; &amp;bull; African rose&lt;br/&gt; &amp;bull; blind-eyes&lt;br/&gt; &amp;bull; blue-eyes&lt;br/&gt; &amp;bull; canker&lt;br/&gt; &amp;bull; canker rose&lt;br/&gt; &amp;bull; cheese couls&lt;br/&gt; &amp;bull; cheese cowl&lt;br/&gt; &amp;bull; cock rose&lt;br/&gt; &amp;bull; common poppy&lt;br/&gt; &amp;bull; cop rose&lt;br/&gt; &amp;bull; copper rose&lt;br/&gt; &amp;bull; corn rose&lt;br/&gt; &amp;bull; cornflower&lt;br/&gt; &amp;bull; field poppy&lt;br/&gt; &amp;bull; flanders poppy&lt;br/&gt; &amp;bull; headache plant&lt;br/&gt; &amp;bull; headaches&lt;br/&gt; &amp;bull; prophetic leaf&lt;br/&gt; &amp;bull; red cornflower&lt;br/&gt; &amp;bull; red poppy&lt;br/&gt; &amp;bull; redweed&lt;br/&gt; &amp;bull; Shirley poppy&lt;br/&gt; &amp;bull; thunder flower&lt;br/&gt; &amp;bull; wind rose&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');">
+<img src="/PlantFinder/Images/information.gif"/>
+</a>
+<input id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen" name="ctl00$MainContentPlaceHolder$CommonNamesInfo$DisclaimerWindowOpen" type="hidden" value="0"/>
+</div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Annual
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Papaveraceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_NativeRangeRow">
+                            Native Range: Temperate Old World
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 3 to 10
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 0.75 to 1.50 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 0.50 to 1.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: June to August
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Red (sometimes purple or white)
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Full sun
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Low
+                        </div>
+<div class="row">Suggested Use: Annual, Naturalize</div>
+<div class="row">Flower: Showy</div>
+<div class="row" id="MainContentPlaceHolder_InvasiveLinkRow">
+                            Invasive: <a href="http://www.invasiveplantatlas.org/subject.html?sub=18660" id="MainContentPlaceHolder_InvasiveLink">Where is this species invasive in the US?</a>
+</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/284850?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

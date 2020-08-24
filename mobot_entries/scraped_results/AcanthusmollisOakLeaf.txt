@@ -1,0 +1,72 @@
+
+	Acanthus mollis 'Oak Leaf'
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=A%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=32598" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/TropicosImages2/PlantRecordImages/prod/small240/00032000/32598.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: bear's breeches 
+                        </div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Herbaceous perennial
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Acanthaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 7 to 10
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 3.00 to 5.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 3.00 to 4.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: June to July
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: White and lilac
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Part shade to full shade
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Medium
+                        </div>
+<div class="row">Flower: Showy, Good Cut</div>
+<div class="row">Leaf: Colorful</div>
+<div class="row">Other: Thorns</div>
+<div class="row">Tolerate: Deer</div>
+<div class="row" id="MainContentPlaceHolder_InvasiveLinkRow">
+                            Invasive: <a href="http://www.invasiveplantatlas.org/subject.html?sub=25271" id="MainContentPlaceHolder_InvasiveLink">Where is this species invasive in the US?</a>
+</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/241755?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

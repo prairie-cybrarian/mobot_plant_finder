@@ -1,0 +1,74 @@
+
+	Lythrum salicaria
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=L%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+<span class="warning" id="MainContentPlaceHolder_TopDisplay">Missouri Noxious Weed: Do Not Plant</span>
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=7539" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/TropicosImages2/PlantRecordImages/prod/small240/00007000/7539_B513-0630040.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: purple loosestrife 
+                        </div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Herbaceous perennial
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Lythraceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_NativeRangeRow">
+                            Native Range: Europe, temperate Asia
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 4 to 9
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 2.00 to 4.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 2.00 to 4.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: May to September
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Magenta
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Full sun
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium to wet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Medium
+                        </div>
+<div class="row">Suggested Use: Water Plant, Naturalize</div>
+<div class="row">Flower: Showy</div>
+<div class="row" id="MainContentPlaceHolder_InvasiveLinkRow">
+                            Invasive: <a href="http://www.invasiveplantatlas.org/subject.html?sub=3047" id="MainContentPlaceHolder_InvasiveLink">Where is this species invasive in the US?</a>
+</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/282500?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

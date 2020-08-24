@@ -1,0 +1,78 @@
+
+	Rosa palustris
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=R%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=95416" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/PlantRecords1/prod/small240/00095000/95416.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+<div class="row" id="MainContentPlaceHolder_MoNative">
+	                            Species Native to Missouri
+                            </div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: swamp rose 
+                        </div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Deciduous shrub
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Rosaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_NativeRangeRow">
+                            Native Range: Eastern North America
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 4 to 9
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 3.00 to 6.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 3.00 to 6.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: June to July
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Pink
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Full sun
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Wet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Medium
+                        </div>
+<div class="row">Suggested Use: Naturalize, Rain Garden</div>
+<div class="row">Flower: Showy, Fragrant</div>
+<div class="row">Leaf: Good Fall</div>
+<div class="row">Attracts: Birds, Butterflies</div>
+<div class="row">Fruit: Showy</div>
+<div class="row">Other: Thorns</div>
+<div class="row">Tolerate: Wet Soil</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/286463?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

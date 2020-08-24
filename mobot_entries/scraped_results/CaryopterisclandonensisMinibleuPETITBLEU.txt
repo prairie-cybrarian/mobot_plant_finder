@@ -1,0 +1,69 @@
+
+	Caryopteris × clandonensis 'Minibleu' PETIT BLEU
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=C%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=19600" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/TropicosImages2/PlantRecordImages/prod/small240/00019000/19600_C756-0826091gk.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: bluebeard 
+                        </div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Deciduous shrub
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Lamiaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 5 to 9
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 2.00 to 2.50 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 2.00 to 2.50 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: July to September
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Dark blue
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Full sun
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Low
+                        </div>
+<div class="row">Flower: Showy</div>
+<div class="row">Leaf: Fragrant</div>
+<div class="row">Attracts: Butterflies</div>
+<div class="row">Tolerate: Drought</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/265911?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

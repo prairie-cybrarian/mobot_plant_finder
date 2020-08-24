@@ -1,0 +1,64 @@
+
+	Begonia 'Lime Royale'
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=B%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="/PlantFinder/Images/NoThumbnailLarge.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: begonia 
+                        </div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Herbaceous perennial
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Begoniaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 10 to 11
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 0.50 to 1.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 1.00 to 1.50 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: Seasonal bloomer
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Pink
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Part shade to full shade
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Medium
+                        </div>
+<div class="row">Flower: Showy</div>
+<div class="row">Leaf: Colorful</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/443934?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

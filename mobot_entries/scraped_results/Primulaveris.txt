@@ -1,0 +1,74 @@
+
+	Primula veris
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=P%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=68281" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/PlantRecords1/prod/small240/00068000/68281.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: cowslip <a href="controls/#" id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerLink" onclick="var isOpen = document.getElementById('MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen'); if(isOpen.value == '0') { isOpen.value = '1'; return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; cowslip&lt;br/&gt; &amp;bull; bedlam cowslip&lt;br/&gt; &amp;bull; common cowslip&lt;br/&gt; &amp;bull; fairy cup&lt;br/&gt; &amp;bull; galligaskins&lt;br/&gt; &amp;bull; gaskins&lt;br/&gt; &amp;bull; herb Peter&lt;br/&gt; &amp;bull; key flower&lt;br/&gt; &amp;bull; keywort&lt;br/&gt; &amp;bull; lady's bunch of keys&lt;br/&gt; &amp;bull; lady's candlestick&lt;br/&gt; &amp;bull; lady's keys&lt;br/&gt; &amp;bull; lady's seal&lt;br/&gt; &amp;bull; luck flower&lt;br/&gt; &amp;bull; paggles&lt;br/&gt; &amp;bull; petty mullein&lt;br/&gt; &amp;bull; primerole&lt;br/&gt; &amp;bull; primet&lt;br/&gt; &amp;bull; St. Peter's wort&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');} else { isOpen.value = '0'; nd(); return false; } " onmouseout="return nd();" onmouseover="return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; cowslip&lt;br/&gt; &amp;bull; bedlam cowslip&lt;br/&gt; &amp;bull; common cowslip&lt;br/&gt; &amp;bull; fairy cup&lt;br/&gt; &amp;bull; galligaskins&lt;br/&gt; &amp;bull; gaskins&lt;br/&gt; &amp;bull; herb Peter&lt;br/&gt; &amp;bull; key flower&lt;br/&gt; &amp;bull; keywort&lt;br/&gt; &amp;bull; lady's bunch of keys&lt;br/&gt; &amp;bull; lady's candlestick&lt;br/&gt; &amp;bull; lady's keys&lt;br/&gt; &amp;bull; lady's seal&lt;br/&gt; &amp;bull; luck flower&lt;br/&gt; &amp;bull; paggles&lt;br/&gt; &amp;bull; petty mullein&lt;br/&gt; &amp;bull; primerole&lt;br/&gt; &amp;bull; primet&lt;br/&gt; &amp;bull; St. Peter's wort&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');">
+<img src="/PlantFinder/Images/information.gif"/>
+</a>
+<input id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen" name="ctl00$MainContentPlaceHolder$CommonNamesInfo$DisclaimerWindowOpen" type="hidden" value="0"/>
+</div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Herbaceous perennial
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Primulaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_NativeRangeRow">
+                            Native Range: Europe to western Asia
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 3 to 8
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 0.50 to 0.75 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 0.25 to 0.50 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: April to May
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Yellow
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Part shade
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Low
+                        </div>
+<div class="row">Suggested Use: Naturalize</div>
+<div class="row">Flower: Showy, Fragrant</div>
+<div class="row">Attracts: Butterflies</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/285538?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

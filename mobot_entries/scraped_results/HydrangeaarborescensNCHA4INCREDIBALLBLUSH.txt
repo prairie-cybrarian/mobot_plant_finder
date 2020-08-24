@@ -1,0 +1,68 @@
+
+	Hydrangea arborescens 'NCHA4' INCREDIBALL BLUSH
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=H%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=74389" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/PlantRecords1/prod/small240/00074000/74389.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: smooth hydrangea 
+                        </div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Deciduous shrub
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Hydrangeaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 3 to 9
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 4.00 to 5.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 4.00 to 5.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: June to September
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Pink
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Part shade
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Low
+                        </div>
+<div class="row">Suggested Use: Naturalize, Rain Garden</div>
+<div class="row">Flower: Showy, Good Cut, Good Dried</div>
+<div class="row">Tolerate: Rabbit, Erosion, Clay Soil, Dry Soil, Wet Soil, Shallow-Rocky Soil, Black Walnut</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/366386?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

@@ -1,0 +1,70 @@
+
+	Quercus laurifolia
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=Q%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="/PlantFinder/Images/NoThumbnailLarge.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: laurel oak 
+                        </div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Tree
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Fagaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_NativeRangeRow">
+                            Native Range: Southeastern United States
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 7 to 9
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 40.00 to 60.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 40.00 to 60.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: March to April
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Yellowish-green
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Full sun
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium to wet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Medium
+                        </div>
+<div class="row">Suggested Use: Shade Tree</div>
+<div class="row">Flower: Insignificant</div>
+<div class="row">Fruit: Showy</div>
+<div class="row">Other: Winter Interest</div>
+<div class="row">Tolerate: Clay Soil</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/280717?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

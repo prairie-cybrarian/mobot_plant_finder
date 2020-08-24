@@ -1,0 +1,74 @@
+
+	Hydrangea anomala subsp. petiolaris
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=H%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=2053" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/TropicosImages2/PlantRecordImages/prod/small240/00002000/2053_D370-0901020.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+<div class="row" id="MainContentPlaceHolder_PlantOfMerit">
+<a href="http://www.missouribotanicalgarden.org/gardens-gardening/your-garden/help-for-the-home-gardener/plants-of-merit.aspx" id="MainContentPlaceHolder_PlantOfMeritLink" target="_blank">Plant of Merit</a>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: climbing hydrangea 
+                        </div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Vine
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Hydrangeaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_NativeRangeRow">
+                            Native Range: Japan, Sakhalin, Korea, Taiwan
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 4 to 8
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 30.00 to 50.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 5.00 to 6.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: May to July
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: White
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Part shade to full shade
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Low
+                        </div>
+<div class="row">Flower: Showy, Fragrant, Good Cut, Good Dried</div>
+<div class="row">Other: Winter Interest</div>
+<div class="row">Tolerate: Rabbit, Drought, Heavy Shade</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/286936?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

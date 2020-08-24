@@ -1,0 +1,77 @@
+
+	Verbascum thapsus
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=V%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=35741" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/PlantRecords1/prod/small240/00035000/35741.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: common mullein <a href="controls/#" id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerLink" onclick="var isOpen = document.getElementById('MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen'); if(isOpen.value == '0') { isOpen.value = '1'; return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; common mullein&lt;br/&gt; &amp;bull; Aaron's rod&lt;br/&gt; &amp;bull; Adam's flannel&lt;br/&gt; &amp;bull; ag leaf&lt;br/&gt; &amp;bull; beggar's blanket&lt;br/&gt; &amp;bull; blanket leaf&lt;br/&gt; &amp;bull; bullock's lungwort&lt;br/&gt; &amp;bull; candlewick&lt;br/&gt; &amp;bull; clown's lungwort&lt;br/&gt; &amp;bull; cow's lungwort&lt;br/&gt; &amp;bull; duffle&lt;br/&gt; &amp;bull; felt&lt;br/&gt; &amp;bull; feltwort&lt;br/&gt; &amp;bull; flannel&lt;br/&gt; &amp;bull; flannel leaf&lt;br/&gt; &amp;bull; flannel plant&lt;br/&gt; &amp;bull; fluffweed&lt;br/&gt; &amp;bull; great mullein&lt;br/&gt; &amp;bull; hag taper&lt;br/&gt; &amp;bull; hag's taper&lt;br/&gt; &amp;bull; hare's beard&lt;br/&gt; &amp;bull; hedge taper&lt;br/&gt; &amp;bull; high taper&lt;br/&gt; &amp;bull; Jacob's staff&lt;br/&gt; &amp;bull; Jupiter's staff&lt;br/&gt; &amp;bull; king's taper&lt;br/&gt; &amp;bull; lady's candles&lt;br/&gt; &amp;bull; lady's foxglove&lt;br/&gt; &amp;bull; lamb's wool&lt;br/&gt; &amp;bull; light of the Lord&lt;br/&gt; &amp;bull; lucernaria&lt;br/&gt; &amp;bull; mullein leaf&lt;br/&gt; &amp;bull; velvet plant&lt;br/&gt; &amp;bull; white mullein&lt;br/&gt; &amp;bull; woollens&lt;br/&gt; &amp;bull; woundweed&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');} else { isOpen.value = '0'; nd(); return false; } " onmouseout="return nd();" onmouseover="return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; common mullein&lt;br/&gt; &amp;bull; Aaron's rod&lt;br/&gt; &amp;bull; Adam's flannel&lt;br/&gt; &amp;bull; ag leaf&lt;br/&gt; &amp;bull; beggar's blanket&lt;br/&gt; &amp;bull; blanket leaf&lt;br/&gt; &amp;bull; bullock's lungwort&lt;br/&gt; &amp;bull; candlewick&lt;br/&gt; &amp;bull; clown's lungwort&lt;br/&gt; &amp;bull; cow's lungwort&lt;br/&gt; &amp;bull; duffle&lt;br/&gt; &amp;bull; felt&lt;br/&gt; &amp;bull; feltwort&lt;br/&gt; &amp;bull; flannel&lt;br/&gt; &amp;bull; flannel leaf&lt;br/&gt; &amp;bull; flannel plant&lt;br/&gt; &amp;bull; fluffweed&lt;br/&gt; &amp;bull; great mullein&lt;br/&gt; &amp;bull; hag taper&lt;br/&gt; &amp;bull; hag's taper&lt;br/&gt; &amp;bull; hare's beard&lt;br/&gt; &amp;bull; hedge taper&lt;br/&gt; &amp;bull; high taper&lt;br/&gt; &amp;bull; Jacob's staff&lt;br/&gt; &amp;bull; Jupiter's staff&lt;br/&gt; &amp;bull; king's taper&lt;br/&gt; &amp;bull; lady's candles&lt;br/&gt; &amp;bull; lady's foxglove&lt;br/&gt; &amp;bull; lamb's wool&lt;br/&gt; &amp;bull; light of the Lord&lt;br/&gt; &amp;bull; lucernaria&lt;br/&gt; &amp;bull; mullein leaf&lt;br/&gt; &amp;bull; velvet plant&lt;br/&gt; &amp;bull; white mullein&lt;br/&gt; &amp;bull; woollens&lt;br/&gt; &amp;bull; woundweed&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');">
+<img src="/PlantFinder/Images/information.gif"/>
+</a>
+<input id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen" name="ctl00$MainContentPlaceHolder$CommonNamesInfo$DisclaimerWindowOpen" type="hidden" value="0"/>
+</div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Herbaceous perennial
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Scrophulariaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_NativeRangeRow">
+                            Native Range: Europe, Asia
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 3 to 9
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 2.00 to 7.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 1.50 to 2.50 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: June to September
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Yellow
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Full sun
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Dry to medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Medium
+                        </div>
+<div class="row">Suggested Use: Naturalize</div>
+<div class="row">Flower: Showy</div>
+<div class="row">Tolerate: Drought, Dry Soil</div>
+<div class="row" id="MainContentPlaceHolder_InvasiveLinkRow">
+                            Invasive: <a href="http://www.invasiveplantatlas.org/subject.html?sub=3080" id="MainContentPlaceHolder_InvasiveLink">Where is this species invasive in the US?</a>
+</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/287011?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

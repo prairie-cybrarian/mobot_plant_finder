@@ -1,0 +1,69 @@
+
+	Ilex × meserveae BLUE PRINCESS
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=I%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=2068" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/TropicosImages2/PlantRecordImages/prod/small240/00002000/2068_D470-0901020.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: blue holly 
+                        </div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Broadleaf evergreen
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Aquifoliaceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 4 to 7
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 10.00 to 15.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 8.00 to 10.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: April to May
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: White
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Full sun to part shade
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Low
+                        </div>
+<div class="row">Suggested Use: Hedge</div>
+<div class="row">Flower: Insignificant</div>
+<div class="row">Leaf: Evergreen</div>
+<div class="row">Attracts: Birds</div>
+<div class="row">Fruit: Showy</div>
+<div class="row">Other: Winter Interest, Thorns</div>
+<div class="row">Tolerate: Air Pollution</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/249176?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>

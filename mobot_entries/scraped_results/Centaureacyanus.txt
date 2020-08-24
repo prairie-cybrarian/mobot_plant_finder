@@ -1,0 +1,78 @@
+
+	Centaurea cyanus
+
+<div class="row">
+<div class="row">
+<div class="back">
+<a href="/PlantFinder/PlantFinderListResults.aspx?letter=C%0A" id="MainContentPlaceHolder_TopBackToPrevPage" target="_self">Back to Previous Page</a>
+</div>
+</div>
+<div class="row">
+</div>
+<div class="column-left">
+<div class="image-section">
+<div class="main-pic" style="overflow:hidden;">
+<a href="/PlantFinder/FullImageDisplay.aspx?documentid=7636" id="MainContentPlaceHolder_PrimaryImageLink" target="_blank"><img alt="" id="MainContentPlaceHolder_PrimaryImageSample" src="http://images.mobot.org/TropicosImages2/PlantRecordImages/prod/small240/00007000/7636_B731-0901041.jpg" style="width: 220px; border: none;"/></a>
+<br/>
+<span style="float: right;"></span>
+</div>
+<div>
+</div>
+<div class="row" id="MainContentPlaceHolder_AllImagesLink">
+<a href="#AllImages">More Images</a>
+</div>
+</div>
+</div>
+<div class="column-right">
+<div class="row" id="MainContentPlaceHolder_CommonNameRow">
+                            Common Name: cornflower <a href="controls/#" id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerLink" onclick="var isOpen = document.getElementById('MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen'); if(isOpen.value == '0') { isOpen.value = '1'; return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; cornflower&lt;br/&gt; &amp;bull; bachelor's buttons&lt;br/&gt; &amp;bull; barbeau&lt;br/&gt; &amp;bull; blaver&lt;br/&gt; &amp;bull; blawort&lt;br/&gt; &amp;bull; blue  blaw&lt;br/&gt; &amp;bull; blue bonnets&lt;br/&gt; &amp;bull; blue bow&lt;br/&gt; &amp;bull; blue poppy&lt;br/&gt; &amp;bull; blue sailors&lt;br/&gt; &amp;bull; blue tops&lt;br/&gt; &amp;bull; bluebottle&lt;br/&gt; &amp;bull; bluets&lt;br/&gt; &amp;bull; break-your-spectacles&lt;br/&gt; &amp;bull; brushes&lt;br/&gt; &amp;bull; bunk&lt;br/&gt; &amp;bull; corn binks&lt;br/&gt; &amp;bull; corn centaury&lt;br/&gt; &amp;bull; cornbottle&lt;br/&gt; &amp;bull; French pink&lt;br/&gt; &amp;bull; happy skies&lt;br/&gt; &amp;bull; haw dods&lt;br/&gt; &amp;bull; hurtsickle&lt;br/&gt; &amp;bull; ragged robin&lt;br/&gt; &amp;bull; ragged sailor&lt;br/&gt; &amp;bull; witches' bells&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');} else { isOpen.value = '0'; nd(); return false; } " onmouseout="return nd();" onmouseover="return overlib(&quot;&lt;b&gt;Common Names&lt;/b&gt;&lt;br/&gt; &amp;bull; cornflower&lt;br/&gt; &amp;bull; bachelor's buttons&lt;br/&gt; &amp;bull; barbeau&lt;br/&gt; &amp;bull; blaver&lt;br/&gt; &amp;bull; blawort&lt;br/&gt; &amp;bull; blue  blaw&lt;br/&gt; &amp;bull; blue bonnets&lt;br/&gt; &amp;bull; blue bow&lt;br/&gt; &amp;bull; blue poppy&lt;br/&gt; &amp;bull; blue sailors&lt;br/&gt; &amp;bull; blue tops&lt;br/&gt; &amp;bull; bluebottle&lt;br/&gt; &amp;bull; bluets&lt;br/&gt; &amp;bull; break-your-spectacles&lt;br/&gt; &amp;bull; brushes&lt;br/&gt; &amp;bull; bunk&lt;br/&gt; &amp;bull; corn binks&lt;br/&gt; &amp;bull; corn centaury&lt;br/&gt; &amp;bull; cornbottle&lt;br/&gt; &amp;bull; French pink&lt;br/&gt; &amp;bull; happy skies&lt;br/&gt; &amp;bull; haw dods&lt;br/&gt; &amp;bull; hurtsickle&lt;br/&gt; &amp;bull; ragged robin&lt;br/&gt; &amp;bull; ragged sailor&lt;br/&gt; &amp;bull; witches' bells&lt;br/&gt;&quot;, TEXTSIZE, '11px', WIDTH, 300, FGCOLOR, '#FFFFCC');">
+<img src="/PlantFinder/Images/information.gif"/>
+</a>
+<input id="MainContentPlaceHolder_CommonNamesInfo_DisclaimerWindowOpen" name="ctl00$MainContentPlaceHolder$CommonNamesInfo$DisclaimerWindowOpen" type="hidden" value="0"/>
+</div>
+<div class="row" id="MainContentPlaceHolder_TypeRow">
+                            Type: Annual
+                        </div>
+<div class="row" id="MainContentPlaceHolder_FamilyRow">
+                            Family: Asteraceae
+                        </div>
+<div class="row" id="MainContentPlaceHolder_NativeRangeRow">
+                            Native Range: Western Asia, Europe
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ZoneRow">
+                            Zone: 2 to 11
+                        </div>
+<div class="row" id="MainContentPlaceHolder_HeightRow">
+                            Height: 1.00 to 3.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SpreadRow">
+                            Spread: 1.00 to 2.00 feet
+                        </div>
+<div class="row" id="MainContentPlaceHolder_BloomTimeRow">
+                            Bloom Time: May to July
+                        </div>
+<div class="row" id="MainContentPlaceHolder_ColorTextRow">
+                            Bloom Description: Blue
+                        </div>
+<div class="row" id="MainContentPlaceHolder_SunRow">
+                            Sun: Full sun
+                        </div>
+<div class="row" id="MainContentPlaceHolder_WaterRow">
+                            Water: Medium
+                        </div>
+<div class="row" id="MainContentPlaceHolder_MaintenanceRow">
+                            Maintenance: Low
+                        </div>
+<div class="row">Suggested Use: Annual, Naturalize</div>
+<div class="row">Flower: Showy, Good Cut</div>
+<div class="row">Attracts: Birds, Butterflies</div>
+<div class="row">Tolerate: Drought</div>
+<div class="row" id="MainContentPlaceHolder_InvasiveLinkRow">
+                            Invasive: <a href="http://www.invasiveplantatlas.org/subject.html?sub=5269" id="MainContentPlaceHolder_InvasiveLink">Where is this species invasive in the US?</a>
+</div>
+<div class="row">
+<a href="https://livingcollections.org/mobot/taxon/277177?tab=accessions" id="MainContentPlaceHolder_GardenLocationLink" target="_blank">Garden locations</a>
+</div>
+</div>
+<div class="clear-float"></div>
+</div>
